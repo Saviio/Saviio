@@ -13,6 +13,7 @@ Lanauages & Tools:
 <img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  style="height: 28px"></span>
 <img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08"  style="height: 28px"></span>
 
+[![Top Langs](https://saviio-github-readme-stats-saviio-fx.vercel.app/api/top-langs/?username=Saviio&exclude_repo=saviio.github.io,,undraw,React-Easy-datepicker,Fermi-UI,Petrel.UI&langs_count=6&layout=compact&hide=JavaScript,CSS&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
