@@ -14,7 +14,9 @@ Tools:
 <img height="20" src="https://img.shields.io/badge/Hasura-1B1F23?style=for-the-badge&logo=hasura&logoColor=ffffff"  style="height: 28px"></span>
 
 [![Top Langs](https://saviio-github-readme-stats-saviio-fx.vercel.app/api/top-langs/?username=Saviio&exclude_repo=saviio.github.io,,undraw,React-Easy-datepicker,Fermi-UI,Petrel.UI&langs_count=6&layout=compact&hide=JavaScript,CSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<span style="max-width: 100%;width: 50%;height: 165px;margin-left: 20px;">
 [![Wakatimes](https://saviio-github-readme-stats-saviio-fx.vercel.app/api/wakatime?username=SaviioFx&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</span>
 
 
 <!--
