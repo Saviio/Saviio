@@ -6,7 +6,7 @@ Lanauages & Tools:
 
 <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="height: 32px"></span>
 <img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"  style="height: 32px"></span>
-<img height="20" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=whiteg"  style="height: 32px"></span>
+<img height="20" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"  style="height: 32px"></span>
 <img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  style="height: 32px"></span>
 <img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  style="height: 32px"></span>
 <img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08"  style="height: 32px"></span>
