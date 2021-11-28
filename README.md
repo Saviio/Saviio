@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Saviio
 
-I'm a Front-End engineer from China, linving in Shanghai. Currently work at Alibaba cloud intelligence / Dingtalk
+I'm a Front-End engineer from China, linving in Shanghai. 
+Currently work at Alibaba cloud intelligence / Dingtalk and built software
 
 Lanauages & Tools:
 
