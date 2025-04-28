@@ -2,7 +2,7 @@
 
 I'm a Front-End engineer from China, living in Shanghai. 
 
-currently I work for Alibaba cloud intelligence / Dingtalk and built software
+currently I work for Alibaba cloud intelligence built software
 
 skills:
 
