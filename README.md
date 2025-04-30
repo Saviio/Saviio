@@ -1,8 +1,17 @@
 ### Hi there 👋, I'm Saviio
 
-I'm a Front-End engineer from China, living in Shanghai. 
+I'm a software engineer based in Shanghai, China, passionate about crafting building friendly user interface and robust systems.
 
-currently I work for Alibaba cloud intelligence and built software
+🛠 Tech Stack
+Core Languages: Proficient in TypeScript, and modern JavaScript (ES6+), C# (ASP.NET Core, Entity Framework).
+
+Backend Development: Experienced with Nodejs, ASP.NET Core for RESTful APIs, microservices, and database design using Entity Framework
+
+Frontend Tooling: Skilled in frontend build tools like Webpack, and state management with RxJS for reactive programming
+
+Web Frameworks: Familiar with Vue/React ecosystems for component-driven development
+
+Language Enthusiast: Curious about programming paradigms, exploring functional concepts (F#), systems programming (Rust), and runtime design
 
 skills:
 
