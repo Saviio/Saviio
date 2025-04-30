@@ -7,9 +7,9 @@ Core Languages: Proficient in TypeScript, and modern JavaScript (ES6+), C# (ASP.
 
 Backend Development: Experienced with Nodejs, ASP.NET Core for RESTful APIs, microservices, and database design using Entity Framework
 
-Frontend Tooling: Skilled in frontend build tools like Webpack, and state management with RxJS for reactive programming
+Frontend Tooling: Skilled in frontend ecosystem build tools like Webpack, and state management with RxJS for reactive programming
 
-Web Frameworks: Familiar with Vue/React ecosystems for component-driven development
+Web Frameworks: Familiar with Vue/React for component-driven development
 
 Language Enthusiast: Curious about programming paradigms, exploring functional concepts (F#), systems programming (Rust), and runtime design
 
