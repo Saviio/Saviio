@@ -9,7 +9,7 @@ Backend Development: Experienced with Nodejs, ASP.NET Core for RESTful APIs, mic
 
 Frontend Tooling: Skilled in frontend ecosystem build tools like Webpack, and state management with RxJS for reactive programming
 
-Web Frameworks: Familiar with Vue/React for component-driven development
+Web Frameworks: Familiar with React for component-driven development
 
 Language Enthusiast: Curious about programming paradigms, exploring functional concepts (F#), systems programming (Rust), and runtime design
 
